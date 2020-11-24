@@ -8,17 +8,17 @@ namespace DemoJenkins.XunitTest
         [Fact]
         public void Test1()
         {
-            Assert.True(true);
+            Assert.True(false);
         }
         [Fact]
         public void Test2()
         {
-            Assert.True(true);
+            Assert.True(false);
         }
         [Fact]
         public void Test3()
         {
-            Assert.True(true);
+            Assert.True(false);
         }
     }
 }
